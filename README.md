@@ -1,3 +1,8 @@
+cdNS (context-depedendent dnds ratio scores) - Evolutionary selection of gene pairs with mutations in cancer genomes
+
+
+
+
 #
 # This code is modified from the original dndscv R pacakges (https://www.sanger.ac.uk/tool/dndscv/ by Martincorena et al 2017).
 # The main purpose of the modification is (1) to run the code in a standalone mode, (2) reuse the resource to speed up the iteration
